@@ -8,7 +8,7 @@ const NavBar = () => {
       <img
           src={logo}
           alt="Logo"
-          className="h-8 w-40 sm:h-10 sm:w-36 md:w-40 lg:w-[178px] lg:h-[58px] 500:h-20 500:w-40" // Increased size for screens over 500px
+          className="h-6 w-350 sm:h-10 sm:w-36 md:w-40 lg:w-[178px] lg:h-[58px] 500:h-20 500:w-40" // Increased size for screens over 500px
         />
       </div>
 
